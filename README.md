@@ -6,7 +6,7 @@ This is the collection of LLM prompt which collect by Caesar
 This pdl was developed according to https://github.com/ZhangHanDong/prompt-description-language
 
 ### 1. Copy the pdl file to the chatgpt  
-**NOTE: I recommend you create a new conversation in chatgpt(3.5 or 5 all be fine)**.
+**NOTE: I recommend you create a new conversation in chatgpt(3.5 or 4 all be fine)**.
 ### 2. Now send your prompt, here is the format
 
 **🎚Depth: <Ph.D>**
