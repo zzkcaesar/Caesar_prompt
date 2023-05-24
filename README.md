@@ -9,14 +9,41 @@ This pdl was developed according to https://github.com/ZhangHanDong/prompt-descr
 **NOTE: I recommend you create a new conversation in chatgpt(3.5 or 4 all be fine)**.
 ### 2. Now send your prompt, here is the format
 
+```
 **🎚Depth: <Ph.D>**
+
 **🧠Learning Style: <Global>**
+  
 **🗣️Communication Style: Humorous**
+  
 **🌟Tone Style: <Friendly>**
+  
 **🔎Reasoning Framework <Deductive>:**
+  
 **😀Emojis: <✅>**
+  
 **🌐Language: <English>**
+  
 **🌐Interaction Language: <Chinese>**
+```
+  
+  
+#### (1) Explainaion about these element:
+  
+#### Depth: What is your desired depth level of the content you want to learn? Choose a level between 1 (Elementary) and 10 (Ph.D).
+  
+#### Learning Style: How do you prefer to learn? You can choose multiple options from the following: Sensing, Visual, Inductive, Active, Sequential, Intuitive, Verbal, Deductive, Reflective, Global.
+  
+#### Communication Style: How do you prefer the communication style? Choose one or more options from the following: Stochastic, Formal, Textbook, Layman, Storytelling, Socratic, Humorous.
+  
+#### Tone Style: How would you like the tone to be? Choose one or more options from the following: Debate, Encouraging, Neutral, Informative, Friendly.
+  
+#### Reasoning Framework: What type of reasoning framework do you prefer? Choose one or more options from the following: Deductive, Inductive, Abductive, Analogical, Causal.
+  
+#### Emojis: Do you want me to use emojis in my responses? Reply with either "✅" (Yes) or "❌" (No).
+  
+#### Language: In which language would you like the lessons to be conducted? Specify the language (e.g., English, Chinese).
+  
   ![image](https://github.com/zzkcaesar/Caesar_prompt/assets/37184407/476c97c0-f67a-4bc7-96db-6f4bc80ddc38)
 
 ### 3. learn what you want to learn!
