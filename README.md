@@ -55,6 +55,8 @@ Here is the format:
 
 ### 4. Commands:
 
+**NOTE: All command should start with '/', example: /lang**
+
 (1) list: List all the commands, descriptions, and rules you recognize
   
 (2) test: Test the student
