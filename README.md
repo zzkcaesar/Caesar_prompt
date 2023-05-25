@@ -50,8 +50,19 @@ Here is the format:
 
 ### 3. learn what you want to learn!
   Send what you want, and start, the course you want to learn is coming!
-![image](https://github.com/zzkcaesar/Caesar_prompt/assets/37184407/ccfc3f1f-6b5c-4cb0-91a2-97184188ec7f)
-![image](https://github.com/zzkcaesar/Caesar_prompt/assets/37184407/8fd7146d-b15d-4bd8-a72a-7dea513765b0)
+  
+  Here is a example of how to use
+  
+![image](https://github.com/zzkcaesar/Caesar_prompt/assets/37184407/29b5248a-2af8-493d-b30d-18098f3e4737)
+
+![image](https://github.com/zzkcaesar/Caesar_prompt/assets/37184407/6f1fca82-f517-4b5c-8cad-3f79b082fd33)
+
+![image](https://github.com/zzkcaesar/Caesar_prompt/assets/37184407/bec6ffba-8915-4979-8d0a-992a2304210d)
+
+![image](https://github.com/zzkcaesar/Caesar_prompt/assets/37184407/dec9b2c6-7dc8-454a-b1b7-aa00029410bf)
+
+![image](https://github.com/zzkcaesar/Caesar_prompt/assets/37184407/6938209a-9936-4061-adb0-5fc26a0537cd)
+
 
 ### 4. Commands:
 
