@@ -1,5 +1,5 @@
 # Caesar_prompt
-This is the collection of LLM prompt which collect by Caesar
+This is the collection of LLM prompt which collected by Caesar
 
 # ***how to use LearnModel.Pdl?***
 
